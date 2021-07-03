@@ -1,4 +1,4 @@
-# TechBip
+# Tech Bip
 
 Frontend application: [`https://techbip.herokuapp.com`](https://techbip.herokuapp.com/) <br>
 Backend application: [`https://techbip-server.herokuapp.com`](https://techbip-server.herokuapp.com/) <br>
